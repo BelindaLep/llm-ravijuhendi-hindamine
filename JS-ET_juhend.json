@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "juhend": "ENS ravijuhend v4",
+    "teema": "Emakakaelavähi sõeluuringu vastavuse hindamine",
+    "viitesüsteem": "[B-3.1.2] = juhendi osa B, peatükk 3.1.2"
+  },
+
+  "vanusepiirid_ja_intervallid": {
+    "viide": "B-3",
+    "uuringu_algus": {
+      "viide": "B-3.1.2",
+      "alustada": "25. eluaastast",
+      "alla_25": "EI skriinita",
+      "vanus_21_24": "Ainult kliinilise näidustuse korral, jälgiv taktika"
+    },
+    "uuringu_lopp": {
+      "viide": "B-3.1.3",
+      "ule_65_tingimused": [
+        "Viimase 10 a jooksul 3 negatiivset günekotsütoloogilist uuringut VÕI 2 negatiivset HPV-uuringut (viimane viimase 5 a sees)",
+        "Anamneesis pole viimase 25 a jooksul CIN2+"
+      ],
+      "erand_cin_anamneesiga": "CIN2/CIN3/AIS anamneesis → jälgimine jätkub vähemalt 25 aastat, isegi üle 65 a",
+      "kunagi_skriinimata": "2 negatiivset HPV-uuringut (intervall 5 a) VÕI 3 negatiivset günekotsütoloogilist uuringut (intervall 3 a)"
+    },
+    "intervallid": {
+      "viide": "B-3.2",
+      "vanus_25_29": {
+        "viide": "B-3.2.1",
+        "meetod": "Ainult günekotsütoloogiline uuring",
+        "intervall": "iga 3 aasta järel",
+        "hpv_uuring": "EI KASUTATA alla 30-aastastel"
+      },
+      "vanus_30_65": {
+        "viide": "B-3.2.2",
+        "meetod": "HPV NAT uuring (organiseeritud sõeluuring alates 2021)",
+        "intervall": "iga 5 aasta järel",
+        "oportunistlik": "Kaksikuuring (HPV + günekotsütoloogia), minimaalselt 5-aastase intervalliga"
+      },
+      "igaaastane_skriining": "EI OLE lubatud ühegi meetodiga"
+    },
+    "parast_husterektoomiat": {
+      "viide": "B-3.3",
+      "emakakael_eemaldatud_cin_puudub": "Edasine jälgimine EI OLE vajalik",
+      "supratservikaalne": "Tavapärane jälgimine jätkub",
+      "husterektoomia_cin_tottu": "Kaksikuuring 6 ja 24 kuud pärast ravi (vt ravijärgne jälgimine B-5.5)"
+    }
+  },
+
+  "organiseeritud_soeluuringu_jalgimine": {
+    "viide": "B-4.1",
+    "kehtib": "≥30-aastased naised",
+    "esmatest": {
+      "hpv_neg": "Rutiinne sõeluuring 5 aasta pärast",
+      "hpv_pos_lbc_lsil_voi_rohkem": "Kohene kolposkoopia",
+      "hpv_pos_lbc_nilm_voi_ascus": "Korrata HPV-uuringut 12 kuu pärast naistearsti vastuvõtul"
+    },
+    "esimene_kordus_12_kuud": {
+      "hpv_neg": "Rutiinne sõeluuring",
+      "hpv_pos_lbc_ascus_voi_rohkem": "Kolposkoopia",
+      "hpv_pos_lbc_nilm": "Korrata HPV-uuringut 12 kuu pärast (teine kordusring)"
+    },
+    "teine_kordus_24_kuud": {
+      "hpv_neg": "Rutiinne sõeluuring",
+      "hpv_pos_lbc_lsil_voi_rohkem": "Kolposkoopia",
+      "hpv_pos_lbc_ascus": "Korrata HPV-uuringut 12 kuu pärast"
+    },
+    "kolposkoopia_kohustuslik_kui": [
+      "HPV pos + LBC ≥LSIL esmaselt",
+      "HPV pos + ASCUS püsinud 12 kuud"
+    ],
+    "oportunistlik_hpv_intervallide_vahel": "EI OLE soovituslik"
+  },
+
+  "gunekotsutoloogia_jalgimine": {
+    "viide": "B-4.2",
+    "vanus_30_ja_vanem": {
+      "viide": "B-4.2.1",
+      "ASCUS": {
+        "viide": "B-4.2.1.1",
+        "taktika": "HPV-uuring kohe VÕI günekotsütoloogia kordamine 12 kuu pärast",
+        "hpv_neg": "Rutiinne sõeluuring",
+        "hpv_pos": "Korrata HPV 12 kuu pärast, edasi vastavalt HPV pos skeemile",
+        "gunekotsutoloogia_kordamisel": "Kolposkoopia kui ≥LSIL VÕI ASCUS püsib 2 aastat"
+      },
+      "LSIL": {
+        "viide": "B-4.2.1.2",
+        "taktika": "Soovituslik HPV-uuring",
+        "hpv_pos_voi_teadmata": "Kolposkoopia",
+        "hpv_neg": "Rutiinne sõeluuring"
+      },
+      "ASC_H": {
+        "viide": "B-4.2.1.3",
+        "taktika": "Kolposkoopia sõltumata HPV staatusest (B)",
+        "hpv_enne_kolposkoopiat": "EI OLE soovituslik"
+      },
+      "HSIL": {
+        "viide": "B-4.2.1.4",
+        "taktika": "Kolposkoopia (B)",
+        "jalgimine_kordamisega": "EI OLE lubatud"
+      }
+    },
+    "vanus_25_29": {
+      "viide": "B-4.2.2",
+      "ASCUS": {
+        "viide": "B-4.2.2.1",
+        "eelistatud": "Günekotsütoloogia kordamine 12 kuu pärast",
+        "kohene_kolposkoopia_ja_hpv": "EI OLE soovituslikud",
+        "12kuu_ascus_voi_lsil": "Jätkata günekotsütoloogiaga 12 kuu tagant",
+        "12kuu_asch_voi_rohkem": "Kolposkoopia",
+        "lsil_ule_24_kuu": "Kolposkoopia",
+        "12kuu_nilm": "Tavapärane jälgimine (günekotsütoloogia 3 a pärast)"
+      },
+      "LSIL": {
+        "viide": "B-4.2.2.2",
+        "taktika": "Jälgimine günekotsütoloogiaga",
+        "hpv_uuring": "EI OLE soovituslik",
+        "kolposkoopia_kui": "≥ASC-H VÕI LSIL püsib üle 24 kuu",
+        "12kuu_nilm": "Tavapärane jälgimine"
+      },
+      "ASC_H_ja_HSIL": {
+        "viide": "B-4.2.2.3",
+        "taktika": "Kolposkoopia (B)",
+        "kohene_ektsisioon": "EI OLE lubatud (B)"
+      }
+    },
+    "AGC_kõik_vanused": {
+      "viide": "B-4.2.3",
+      "AGC_NOS": {
+        "viide": "B-4.2.3.1",
+        "taktika": "HPV-uuring + kolposkoopia + emakakaelakanali materjali võtmine"
+      },
+      "AGC_FN": {
+        "viide": "B-4.2.3.1",
+        "taktika": "AGC-NOS taktika + emakaõõne histoloogiline uuring"
+      },
+      "vanus_35_ja_vanem": {
+        "viide": "B-4.2.3.1",
+        "taktika": "Alati emakaõõne histoloogiline analüüs koos kolposkoopia ja emakakaelakanali analüüsiga"
+      },
+      "vanus_alla_35": {
+        "viide": "B-4.2.3.1",
+        "taktika": "Emakaõõne analüüs ainult riskitegurite korral (ebaselge veritsus, krooniline anovulatsioon)"
+      },
+      "AIS": {
+        "viide": "B-4.2.3.2",
+        "taktika": "Konsulteerida onkogünekoloogiga",
+        "synnitada_planeeriv": "Emakakaela konisatsioon",
+        "ei_planeeri_synnitsda": "Hüsterektoomia"
+      }
+    }
+  },
+
+  "immunosupressiivsed_naised": {
+    "viide": "B-4.2.6",
+    "kehtib": ["HIV", "Organtransplantatsioon", "Tüvirakkude siirdamine", "SLE", "Haavandiline koliit", "Reumaatilised haigused immunosupressiivse raviga"],
+    "jalgimine_algab": "Aasta jooksul pärast suguelu algust, jätkub kogu elu",
+    "alla_30": {
+      "taktika": "Günekotsütoloogiline uuring 1x aastas 3 a jooksul, edasi iga 3 a järel",
+      "hiv_pos_kaksikuuring": "EI OLE soovituslik",
+      "ascus": "Kordus 12 kuu pärast; kordus ≥ASCUS → kolposkoopia",
+      "lsil_voi_rohkem": "Kolposkoopia"
+    },
+    "30_ja_vanem": {
+      "taktika": "Kaksikuuring (HPV + günekotsütoloogia) iga 3 a järel kogu eluea jooksul",
+      "hpv_neg_nilm": "3 a intervall",
+      "hpv_neg_lsil_voi_rohkem": "Kolposkoopia",
+      "hpv_pos_nilm_voi_rohkem": "Kolposkoopia",
+      "ascus": "Kordus günekotsütoloogia 12 kuu pärast; ≥LSIL → kolposkoopia"
+    }
+  },
+
+  "kolposkoopia": {
+    "viide": "B-2.3",
+    "nadustused": {
+      "viide": "B-2.3.2",
+      "gunekotsutoloogias": ["ASC-H", "HSIL", "AGC-NOS", "AGC-FN", "AIS", "Korduv ASCUS", "Korduv LSIL"],
+      "hpv_seosed": ["HPV pos + günekotsütoloogias ≥LSIL", "HPV pos + ASCUS püsib 12 kuud"],
+      "muud": ["Silmaga nähtavad lesioonid emakakaelal/vulval/tupe limaskestal", "Ebaselged verejooksud, kontaktverejooksud"]
+    },
+    "adekvaatsus": {
+      "viide": "B-2.3.5",
+      "adekvaatne": "SCJ täies ulatuses nähtav + TZ täies ulatuses nähtav + kõik abnormaalsused nähtavad",
+      "mitteadekvaatne": "Mõni eelnev kriteerium ei ole täidetud"
+    },
+    "swede_indeks": {
+      "viide": "B-2.3.7",
+      "0_4_punkti": "Kerge astme muutus (LSIL)",
+      "5_7_punkti": "Raske astme muutus (HSIL), invasiooni kahtlust ei ole",
+      "8_10_punkti": "Raske astme muutus (90% HSIL), invasiooni kahtlus"
+    }
+  },
+
+  "cin_jalgimine": {
+    "viide": "B-5.1",
+    "CIN1": {
+      "viide": "B-5.1.1",
+      "regressioon": "Kuni 80% regresseerub iseenesest 2 aastaga, ravi üldjuhul ei vajata",
+      "hpv_pos_ascus_lsil_cin1": {
+        "viide": "B-5.1.1.1",
+        "taktika": "Korrata HPV-uuring 12 kuu pärast (alla 30 a: ainult günekotsütoloogiline uuring)",
+        "hpv_neg": "Korrata 3 a pärast, seejärel tavapärane jälgimine",
+        "hpv_pos_lsil_voi_rohkem": "Kolposkoopia",
+        "hpv_pos_ascus": "Korrata 12 kuu pärast",
+        "cin1_ule_24_kuu": "Jätkata jälgimisega VÕI konisatsioon"
+      },
+      "hpv_pos_asch_hsil_cin1": {
+        "viide": "B-5.1.1.2",
+        "valikud": [
+          "Tsütoloogia, histoloogia ja kolposkoopia tulemuste ülevaatamine (B)",
+          "Diagnostiline konisatsioon",
+          "Jälgiv taktika 2 a: HPV (alla 30 a günekotsütoloogia) 12 ja 24 kuu pärast"
+        ],
+        "jalgimisel_molemal_neg": "Korrata 3 a pärast",
+        "jalgimisel_hpv_pos_voi_lsil": "Korduv kolposkoopia",
+        "2a_hpv_pos_hsil_asch_pusib": "Konisatsioon",
+        "asch_eelistatud": "Jälgiv taktika kuni 2 aastat",
+        "hsil_valikud": "Konisatsioon VÕI jälgimine kuni 2 aastat"
+      }
+    },
+    "CIN2_CIN3": {
+      "viide": "B-5.1.2",
+      "CIN3": "Konisatsioon (v.a. rasedad)",
+      "CIN2_mitterasedal": "Soovitav konisatsioon; jälgiv taktika lubatud eriti alla 30 a ja rasedust planeerivatel",
+      "cin2_regressioon_alla30": "Kuni 60% regresseerub 2 aastaga",
+      "jalgimine_cin2": {
+        "eeldus": "Ainult adekvaatse kolposkoopia korral, kuni 2 aastat",
+        "intervall": "HPV (alla 30 a günekotsütoloogia) + kolposkoopia 6-kuulise intervalliga",
+        "6_ja_12_kuu_hpv_pos_hist_alla_cin2": "Korrata 12 kuu pärast",
+        "6_ja_12_kuu_negatiivsed": "HPV 1x aastas 3 a, seejärel HPV 3 a intervalliga vähemalt 25 aastat",
+        "cin3_tekib_voi_cin2_pusib_2a": "Konisatsioon",
+        "asch_hsil_agc_biopsias_alla_cin2": "Jätkata jälgimist 6-kuulise intervalliga"
+      }
+    },
+    "rasedad": {
+      "viide": "B-5.1.3",
+      "lubatud": "Kolposkoopia + portiobiopsis",
+      "keelatud": "ECC ja endomeetriumi biopsis",
+      "ascus_lsil": "Kolposkoopia võib lükata sünnitusjärgsesse perioodi",
+      "CIN1": "Sekkumine EI OLE vajalik",
+      "HSIL_CIN2_3": "Günekotsütoloogia + kolposkoopia 12–24-nädalase intervalliga kuni 30. rasedusnädalani; korduv biopsia ainult invasioonikahtluse korral",
+      "kordusuuringud_cin23": "Võib lükata sünnitusjärgsesse perioodi (mitte varem kui 6 nädalat pärast sünnitust)",
+      "diagnostiline_konisatsioon": "Ainult invasiivse vähi kahtluse korral"
+    },
+    "vanus_21_24": {
+      "viide": "B-5.1.4",
+      "lsil_cin1": {
+        "viide": "B-5.1.4.1",
+        "taktika": "Günekotsütoloogia 12 kuu pärast (HPV EI OLE lubatud)",
+        "ascus_lsil": "Kordus 12 kuu pärast",
+        "asch_hsil": "Kolposkoopia",
+        "nilm": "Tavapärane jälgimine"
+      },
+      "asch_hsil_cin1": {
+        "viide": "B-5.1.4.2",
+        "taktika": "Jälgiv taktika 24 kuud, günekotsütoloogia 12-kuulise intervalliga",
+        "2_neg_kolposkoopia_neg": "Tavapärane jälgimine",
+        "hsil_24kuu_ilma_cin2": "Konisatsioon",
+        "mitteadekvaatne_kolposkoopia": "Konisatsioon lubatud (B)"
+      },
+      "CIN2": {
+        "viide": "B-5.1.4.3",
+        "taktika": "Jälgiv taktika soovitav; günekotsütoloogia + kolposkoopia 6-kuulise intervalliga kuni 24 kuud",
+        "cin2_pusib_24kuu": "Konisatsioon"
+      },
+      "CIN3": {
+        "viide": "B-5.1.4.3",
+        "taktika": "Konisatsioon VÕI jälgimine (adekvaatse kolposkoopia korral kuni 24 kuud)",
+        "mitteadekvaatne_kolposkoopia": "Konisatsioon (B)"
+      }
+    }
+  },
+
+  "ravimeetodid": {
+    "viide": "B-5.2–B-5.4",
+    "eelistatud": "Ekstsisioon (efektiivsus ~94–98%)",
+    "ablatiivne_lubatud_kui": [
+      "Adekvaatne kolposkoopia (kogu TZ nähtav)",
+      "Lesioon täielikult visualiseeritav",
+      "Histoloogia välistab silinderepiteeli haaratuse ja invasiooni",
+      "Tsütoloogiline ja histoloogiline diagnoos ühtivad",
+      "Pindmine lesioon, läbimõõt <2 cm"
+    ],
+    "CIN1": { "viide": "B-5.3", "meetod": "Ablatsioon VÕI konisatsioon", "husterektoomia": "KEELATUD" },
+    "CIN2_CIN3": { "viide": "B-5.4", "meetod": "Konisatsioon", "husterektoomia_esmavaliku": "VASTUNÄIDUSTATUD (B)" },
+    "konisaadi_sugavus": { "viide": "B-5.2", "soovituslik": "7–10 mm", "ule_10mm": "Tõstab enneaegse sünnituse riski" }
+  },
+
+  "ravijargne_jalgimine": {
+    "viide": "B-5.5",
+    "kaksikuuring": "6 ja 24 kuud pärast ravi",
+    "molemal_neg": "Kaksikuuring 3 a pärast",
+    "3a_neg": "HPV-põhine jälgimine vähemalt 25 aastat",
+    "hpv_pos_voi_lsil": "Kolposkoopia",
+    "ASCUS": "Korduv kaksikuuring 12 kuu pärast; ASCUS püsib → kolposkoopia",
+    "dysplasia_loikejoonel": "Võib korrata konisatsiooni (D)",
+    "cin2_retsiidiiv": "Konisatsioon VÕI hüsterektoomia (B)"
+  },
+
+  "toenduspohisuse_tasemed": {
+    "viide": "A-1.2",
+    "A": "Randomiseeritud kontrollitud uuringud / meta-analüüs",
+    "B": "Kontrollitud randomiseerimata uuring / kohort- või juht-kontrolluuring",
+    "C": "Jälgivad uuringud, haigusjuhtumite kirjeldused",
+    "D": "Ekspertarvamus, kliiniline kogemus",
+    "soovituste_tugevus": {
+      "on_soovituslik": "Tugev poolt-soovitus",
+      "on_lubatud": "Nõrk poolt-soovitus",
+      "ei_ole_soovituslik": "Vastu-soovitus"
+    }
+  }
+}

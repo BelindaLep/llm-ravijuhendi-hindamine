@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "guideline": "ENS Clinical Guideline v4",
+    "topic": "Cervical Cancer Screening Compliance Assessment",
+    "reference_system": "[B-3.1.2] = guideline section B, chapter 3.1.2"
+  },
+
+  "age_limits_and_intervals": {
+    "ref": "B-3",
+    "screening_start": {
+      "ref": "B-3.1.2",
+      "start_age": "25 years",
+      "under_25": "NOT screened",
+      "age_21_24": "Only if clinical indication; watchful waiting applies"
+    },
+    "screening_end": {
+      "ref": "B-3.1.3",
+      "over_65_conditions": [
+        "Within the last 10 years: 3 negative cytology tests OR 2 negative HPV tests (last one within past 5 years)",
+        "No history of CIN2+ in the last 25 years"
+      ],
+      "exception_cin_history": "Prior CIN2/CIN3/AIS → surveillance continues at least 25 years, even beyond age 65",
+      "never_screened": "2 negative HPV tests (5-year interval) OR 3 negative cytology tests (3-year interval)"
+    },
+    "intervals": {
+      "ref": "B-3.2",
+      "age_25_29": {
+        "ref": "B-3.2.1",
+        "method": "Cytology only",
+        "interval": "every 3 years",
+        "hpv_testing": "NOT used under age 30"
+      },
+      "age_30_65": {
+        "ref": "B-3.2.2",
+        "method": "HPV NAT test (organised screening from 2021)",
+        "interval": "every 5 years",
+        "opportunistic": "Co-test (HPV + cytology), minimum 5-year interval"
+      },
+      "annual_screening": "NOT permitted with any method"
+    },
+    "after_hysterectomy": {
+      "ref": "B-3.3",
+      "cervix_removed_no_cin": "Further surveillance NOT required",
+      "supracervical": "Routine surveillance continues",
+      "hysterectomy_due_to_cin": "Co-test at 6 and 24 months post-treatment (see post-treatment surveillance B-5.5)"
+    }
+  },
+
+  "organised_screening_followup": {
+    "ref": "B-4.1",
+    "applies_to": "Women ≥30 years",
+    "primary_result": {
+      "hpv_neg": "Routine screening in 5 years",
+      "hpv_pos_lbc_lsil_or_worse": "Immediate colposcopy",
+      "hpv_pos_lbc_nilm_or_ascus": "Repeat HPV test in 12 months at gynaecologist"
+    },
+    "first_repeat_12_months": {
+      "hpv_neg": "Routine screening",
+      "hpv_pos_lbc_ascus_or_worse": "Colposcopy",
+      "hpv_pos_lbc_nilm": "Repeat HPV in 12 months (second round)"
+    },
+    "second_repeat_24_months": {
+      "hpv_neg": "Routine screening",
+      "hpv_pos_lbc_lsil_or_worse": "Colposcopy",
+      "hpv_pos_lbc_ascus": "Repeat HPV in 12 months"
+    },
+    "colposcopy_mandatory_when": [
+      "HPV pos + LBC ≥LSIL at primary test",
+      "HPV pos + ASCUS persisted 12 months"
+    ],
+    "opportunistic_hpv_between_intervals": "NOT recommended"
+  },
+
+  "cytology_followup": {
+    "ref": "B-4.2",
+    "age_30_and_older": {
+      "ref": "B-4.2.1",
+      "ASCUS": {
+        "ref": "B-4.2.1.1",
+        "management": "Immediate HPV test OR repeat cytology in 12 months",
+        "hpv_neg": "Routine screening",
+        "hpv_pos": "Repeat HPV in 12 months, then follow HPV positive algorithm",
+        "cytology_repeat": "Colposcopy if ≥LSIL OR ASCUS persists 2 years"
+      },
+      "LSIL": {
+        "ref": "B-4.2.1.2",
+        "management": "Recommended: HPV test",
+        "hpv_pos_or_unknown": "Colposcopy",
+        "hpv_neg": "Routine screening"
+      },
+      "ASC_H": {
+        "ref": "B-4.2.1.3",
+        "management": "Colposcopy regardless of HPV status (B)",
+        "hpv_before_colposcopy": "NOT recommended"
+      },
+      "HSIL": {
+        "ref": "B-4.2.1.4",
+        "management": "Colposcopy (B)",
+        "watchful_waiting": "NOT permitted"
+      }
+    },
+    "age_25_29": {
+      "ref": "B-4.2.2",
+      "ASCUS": {
+        "ref": "B-4.2.2.1",
+        "preferred": "Repeat cytology in 12 months",
+        "immediate_colposcopy_hpv": "NOT recommended",
+        "12mo_ascus_or_lsil": "Continue cytology every 12 months",
+        "12mo_asch_or_worse": "Colposcopy",
+        "lsil_over_24_months": "Colposcopy",
+        "12mo_nilm": "Routine surveillance (cytology in 3 years)"
+      },
+      "LSIL": {
+        "ref": "B-4.2.2.2",
+        "management": "Follow-up with cytology",
+        "hpv_testing": "NOT recommended",
+        "colposcopy_if": "≥ASC-H OR LSIL persists >24 months",
+        "12mo_nilm": "Routine surveillance"
+      },
+      "ASC_H_and_HSIL": {
+        "ref": "B-4.2.2.3",
+        "management": "Colposcopy (B)",
+        "immediate_loop_excision": "NOT permitted (B)"
+      }
+    },
+    "AGC_all_ages": {
+      "ref": "B-4.2.3",
+      "AGC_NOS": {
+        "ref": "B-4.2.3.1",
+        "management": "HPV test + colposcopy + endocervical sampling"
+      },
+      "AGC_FN": {
+        "ref": "B-4.2.3.1",
+        "management": "AGC-NOS management + endometrial histology"
+      },
+      "age_35_and_older": {
+        "ref": "B-4.2.3.1",
+        "management": "Endometrial histology always (with colposcopy and endocervical sampling)"
+      },
+      "age_under_35": {
+        "ref": "B-4.2.3.1",
+        "management": "Endometrial sampling only if risk factors present (unexplained bleeding, chronic anovulation)"
+      },
+      "AIS": {
+        "ref": "B-4.2.3.2",
+        "management": "Consult gynaecological oncologist",
+        "planning_pregnancy": "Cervical conisation",
+        "not_planning_pregnancy": "Hysterectomy"
+      }
+    }
+  },
+
+  "immunosuppressed_women": {
+    "ref": "B-4.2.6",
+    "applies_to": ["HIV", "Post-organ transplant", "Post-allogeneic stem cell transplant", "SLE", "Ulcerative colitis", "Rheumatic diseases on immunosuppressive treatment"],
+    "surveillance_start": "Within 1 year of sexual debut; continues lifelong",
+    "under_30": {
+      "management": "Cytology annually for 3 years, then every 3 years",
+      "hiv_pos_cotest": "NOT recommended",
+      "ascus": "Repeat in 12 months; repeat ≥ASCUS → colposcopy",
+      "lsil_or_worse": "Colposcopy"
+    },
+    "age_30_and_older": {
+      "management": "Co-test (HPV + cytology) every 3 years lifelong",
+      "hpv_neg_nilm": "3-year interval",
+      "hpv_neg_lsil_or_worse": "Colposcopy",
+      "hpv_pos_nilm_or_worse": "Colposcopy",
+      "ascus": "Repeat cytology in 12 months; ≥LSIL → colposcopy"
+    }
+  },
+
+  "colposcopy": {
+    "ref": "B-2.3",
+    "indications": {
+      "ref": "B-2.3.2",
+      "cytology": ["ASC-H", "HSIL", "AGC-NOS", "AGC-FN", "AIS", "Recurrent ASCUS", "Recurrent LSIL"],
+      "hpv_related": ["HPV pos + cytology ≥LSIL", "HPV pos + ASCUS persisting 12 months"],
+      "other": ["Visible lesions on cervix/vulva/vaginal mucosa", "Unexplained genital bleeding, contact bleeding"]
+    },
+    "adequacy": {
+      "ref": "B-2.3.5",
+      "adequate": "SCJ fully visible + TZ fully visible + all abnormalities visible",
+      "inadequate": "Any of the above criteria not met"
+    },
+    "swede_index": {
+      "ref": "B-2.3.7",
+      "0_4_points": "Low-grade change (LSIL)",
+      "5_7_points": "High-grade change (HSIL), no suspicion of invasion",
+      "8_10_points": "High-grade change (90% HSIL), suspicion of invasion"
+    }
+  },
+
+  "cin_management": {
+    "ref": "B-5.1",
+    "CIN1": {
+      "ref": "B-5.1.1",
+      "regression": "Up to 80% regress spontaneously within 2 years; treatment generally not required",
+      "hpv_pos_ascus_lsil_cin1": {
+        "ref": "B-5.1.1.1",
+        "management": "Repeat HPV in 12 months (age <30: cytology only)",
+        "hpv_neg": "Repeat in 3 years; then routine surveillance",
+        "hpv_pos_lsil_or_worse": "Colposcopy",
+        "hpv_pos_ascus": "Repeat in 12 months",
+        "cin1_over_24_months": "Watchful waiting may continue OR conisation"
+      },
+      "hpv_pos_asch_hsil_cin1": {
+        "ref": "B-5.1.1.2",
+        "options": [
+          "Review cytology, histology and colposcopy findings (B)",
+          "Diagnostic conisation",
+          "Watchful waiting 2 years: repeat HPV (age <30: cytology) at 12 and 24 months"
+        ],
+        "both_negative": "Repeat in 3 years",
+        "hpv_pos_or_lsil": "Repeat colposcopy",
+        "2yr_hpv_pos_hsil_asch_persists": "Conisation",
+        "asch_preferred": "Watchful waiting up to 2 years",
+        "hsil_options": "Conisation OR watchful waiting up to 2 years"
+      }
+    },
+    "CIN2_CIN3": {
+      "ref": "B-5.1.2",
+      "CIN3": "Conisation (except in pregnancy)",
+      "CIN2_nonpregnant": "Conisation recommended; watchful waiting permitted especially in women under 30 or planning pregnancy",
+      "cin2_regression_under30": "Up to 60% regress within 2 years",
+      "watchful_waiting_cin2": {
+        "prerequisite": "Adequate colposcopy only; up to 2 years",
+        "interval": "HPV (age <30: cytology) + colposcopy every 6 months",
+        "6_and_12mo_hpv_pos_hist_under_cin2": "Repeat in 12 months",
+        "6_and_12mo_negative": "HPV annually for 3 years; then HPV every 3 years for at least 25 years",
+        "cin3_develops_or_cin2_persists_2yr": "Conisation",
+        "asch_hsil_agc_biopsy_under_cin2": "Continue surveillance every 6 months"
+      }
+    },
+    "pregnancy": {
+      "ref": "B-5.1.3",
+      "permitted": "Colposcopy + ectocervical biopsy",
+      "prohibited": "ECC and endometrial biopsy",
+      "ascus_lsil": "Colposcopy may be deferred to postpartum",
+      "CIN1": "No intervention required",
+      "HSIL_CIN2_3": "Cytology + colposcopy every 12–24 weeks until week 30; repeat biopsy only if invasion suspected or findings worsen",
+      "repeat_testing_cin23": "May be deferred to postpartum (not earlier than 6 weeks after delivery)",
+      "diagnostic_conisation": "Only if invasive cancer suspected"
+    },
+    "age_21_24": {
+      "ref": "B-5.1.4",
+      "lsil_cin1": {
+        "ref": "B-5.1.4.1",
+        "management": "Cytology in 12 months (HPV NOT permitted)",
+        "ascus_lsil": "Repeat in 12 months",
+        "asch_hsil": "Colposcopy",
+        "nilm": "Routine surveillance"
+      },
+      "asch_hsil_cin1": {
+        "ref": "B-5.1.4.2",
+        "management": "Watchful waiting 24 months; cytology every 12 months",
+        "2_neg_colposcopy_neg": "Routine surveillance",
+        "hsil_24mo_no_cin2": "Conisation",
+        "inadequate_colposcopy": "Conisation permitted (B)"
+      },
+      "CIN2": {
+        "ref": "B-5.1.4.3",
+        "management": "Watchful waiting recommended; cytology + colposcopy every 6 months up to 24 months",
+        "cin2_persists_24mo": "Conisation"
+      },
+      "CIN3": {
+        "ref": "B-5.1.4.3",
+        "management": "Conisation OR watchful waiting (adequate colposcopy, up to 24 months)",
+        "inadequate_colposcopy": "Conisation (B)"
+      }
+    }
+  },
+
+  "treatment_methods": {
+    "ref": "B-5.2–B-5.4",
+    "preferred": "Excision (efficacy ~94–98%)",
+    "ablative_permitted_only_if": [
+      "Adequate colposcopy (entire TZ visible)",
+      "Lesion fully visualised",
+      "Histology excludes glandular involvement and invasion",
+      "Cytological and histological diagnoses concordant",
+      "Superficial lesion, diameter <2 cm"
+    ],
+    "CIN1": { "ref": "B-5.3", "method": "Ablation OR conisation", "hysterectomy": "PROHIBITED" },
+    "CIN2_CIN3": { "ref": "B-5.4", "method": "Conisation", "hysterectomy_as_primary": "CONTRAINDICATED (B)" },
+    "conisation_depth": { "ref": "B-5.2", "recommended": "7–10 mm", "over_10mm": "Increases risk of preterm birth" }
+  },
+
+  "post_treatment_surveillance": {
+    "ref": "B-5.5",
+    "cotest": "At 6 and 24 months post-treatment",
+    "both_negative": "Co-test in 3 years",
+    "3yr_negative": "HPV-based surveillance for at least 25 years",
+    "hpv_pos_or_lsil": "Colposcopy",
+    "ASCUS": "Repeat co-test in 12 months; ASCUS persists → colposcopy",
+    "dysplasia_at_margin": "Repeat conisation may be performed (D)",
+    "cin2_recurrence": "Conisation OR hysterectomy (B)"
+  },
+
+  "levels_of_evidence": {
+    "ref": "A-1.2",
+    "A": "Randomised controlled trials / meta-analysis",
+    "B": "Controlled non-randomised trial / cohort or case-control study",
+    "C": "Observational studies, case reports",
+    "D": "Expert opinion, clinical experience",
+    "recommendation_strength": {
+      "is_recommended": "Strong recommendation for",
+      "is_permitted": "Weak recommendation for",
+      "is_not_recommended": "Recommendation against"
+    }
+  }
+}

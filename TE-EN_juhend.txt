@@ -1,0 +1,263 @@
+# CERVICAL CANCER SCREENING COMPLIANCE ASSESSMENT GUIDELINE
+## ENS Clinical Guideline v4 – Summary for Evaluation
+ 
+Reference system: [B-3.1.2] = guideline section B, chapter 3.1.2. Use these references when justifying your assessment.
+ 
+---
+ 
+## 1. SCREENING AGE LIMITS AND INTERVALS
+ 
+### 1.1 When to start [B-3.1.2]
+- Organised screening begins at **age 25**.
+- Women under 25 are NOT screened (high rate of spontaneous regression, low cancer risk).
+- Women aged 21–24 may be examined only if there is a clinical indication – watchful waiting applies.
+ 
+### 1.2 When to stop [B-3.1.3]
+- Screening may be discontinued in women over 65 IF BOTH conditions are met:
+  - within the last 10 years: 3 negative cytology tests OR 2 negative HPV tests (the last one within the past 5 years), AND
+  - no history of CIN2 or more severe change in the last 25 years.
+- EXCEPTION [B-3.1.3]: prior CIN2, CIN3 or AIS → surveillance must continue for **at least 25 years**, even beyond age 65.
+- Women never previously screened [B-3.1.3]: confirm negative status with 2 negative HPV tests (5-year interval) OR 3 negative cytology tests (3-year interval).
+ 
+### 1.3 Screening intervals [B-3.2]
+- **Ages 25–29 [B-3.2.1]:** cytology only every **3 years**. HPV testing is NOT used.
+- **Ages 30–65 [B-3.2.2]:** HPV NAT test every **5 years** (organised screening from 2021).
+- **Opportunistic screening 30–65 [B-3.2.2]:** co-test (HPV + cytology), minimum 5-year interval.
+- Annual screening is NOT permitted with any method [B-3.2.1].
+ 
+### 1.4 After hysterectomy [B-3.3]
+- Cervix removed + no history of CIN2+: further surveillance is NOT required [B-3.3].
+- Supracervical hysterectomy (cervix retained): routine surveillance continues [B-3.3].
+- Hysterectomy due to CIN: follow-up same as post-conisation – co-test at 6 and 24 months post-treatment [B-3.3].
+ 
+---
+ 
+## 2. FOLLOW-UP OF ORGANISED SCREENING RESULTS (women ≥30) [B-4.1]
+ 
+From 2021, the primary test in Estonia's organised screening for women ≥30 is HPV NAT.
+If HPV positive, LBC is performed immediately from the same sample.
+Further follow-up is managed by a gynaecologist.
+ 
+### Based on primary test result [B-4.1]:
+- **HPV negative:** routine screening in 5 years.
+- **HPV positive + LBC ≥LSIL:** immediate colposcopy.
+- **HPV positive + LBC NILM or ASCUS:** repeat HPV test in 12 months at gynaecologist.
+ 
+### First repeat (12 months) [B-4.1]:
+- HPV negative → routine screening.
+- HPV positive + LBC ≥ASCUS → colposcopy.
+- HPV positive + LBC NILM → repeat HPV in 12 months (second round).
+ 
+### Second repeat (24 months) [B-4.1]:
+- HPV negative → routine screening.
+- HPV positive + LBC ≥LSIL → colposcopy.
+- HPV positive + LBC ASCUS → repeat HPV in 12 months.
+ 
+**Colposcopy is mandatory when [B-4.1]:**
+- HPV positive + LBC ≥LSIL at primary test, OR
+- HPV positive + ASCUS has persisted for 12 months.
+ 
+Opportunistic HPV testing between organised screening intervals is NOT recommended [B-4.1].
+ 
+---
+ 
+## 3. FOLLOW-UP OF CYTOLOGY RESULTS [B-4.2]
+ 
+### 3.1 Women ≥30 years [B-4.2.1]
+ 
+**ASCUS [B-4.2.1.1]:**
+- Recommended: immediate HPV test OR repeat cytology in 12 months.
+  - HPV negative → routine screening [B-4.2.1.1].
+  - HPV positive → repeat HPV in 12 months, then follow HPV positive algorithm [B-4.2.1.1].
+  - If repeating cytology: colposcopy if result worsens to ≥LSIL OR ASCUS persists for 2 years [B-4.2.1.1].
+ 
+**LSIL [B-4.2.1.2]:**
+- Recommended: HPV test.
+  - LSIL + HPV positive (or unknown) → colposcopy [B-4.2.1.2].
+  - LSIL + HPV negative → routine screening [B-4.2.1.2].
+ 
+**ASC-H [B-4.2.1.3]:**
+- Colposcopy regardless of HPV status (B) [B-4.2.1.3].
+- HPV testing before colposcopy is NOT recommended [B-4.2.1.3].
+ 
+**HSIL [B-4.2.1.4]:**
+- Colposcopy (B) [B-4.2.1.4].
+- Watchful waiting with repeat HPV/cytology is NOT permitted [B-4.2.1.4].
+ 
+### 3.2 Women aged 25–29 [B-4.2.2]
+ 
+**ASCUS [B-4.2.2.1]:**
+- Preferred: repeat cytology in 12 months. Immediate colposcopy and HPV testing are NOT recommended [B-4.2.2.1].
+  - 12-month result ASCUS/LSIL → continue cytology every 12 months [B-4.2.2.1].
+  - 12-month result ≥ASC-H → colposcopy [B-4.2.2.1].
+  - LSIL persists >24 months → colposcopy [B-4.2.2.1].
+  - 12-month result NILM → routine surveillance (cytology in 3 years) [B-4.2.2.1].
+ 
+**LSIL [B-4.2.2.2]:**
+- Recommended: follow-up with cytology. HPV testing is NOT recommended [B-4.2.2.2].
+- Colposcopy if: result worsens to ≥ASC-H OR LSIL persists >24 months [B-4.2.2.2].
+- 12-month result NILM → routine surveillance [B-4.2.2.2].
+ 
+**ASC-H or HSIL [B-4.2.2.3]:**
+- Colposcopy (B) [B-4.2.2.3]. Immediate loop excision is NOT permitted (B) [B-4.2.2.3].
+ 
+### 3.3 AGC (atypical glandular cells) – all age groups [B-4.2.3]
+ 
+**AGC-NOS [B-4.2.3.1]:**
+- HPV test + colposcopy + endocervical sampling [B-4.2.3.1].
+ 
+**AGC-FN [B-4.2.3.1]:**
+- As above + endometrial histology [B-4.2.3.1].
+ 
+**Age ≥35 [B-4.2.3.1]:** endometrial histology always (with colposcopy and endocervical sampling).
+**Age <35 [B-4.2.3.1]:** endometrial sampling only if risk factors present (unexplained bleeding, chronic anovulation).
+ 
+**AIS [B-4.2.3.2]:**
+- Consult gynaecological oncologist [B-4.2.3.2].
+- Woman planning pregnancy: cervical conisation [B-4.2.3.2].
+- Woman not planning further pregnancy: hysterectomy [B-4.2.3.2].
+ 
+---
+ 
+## 4. IMMUNOSUPPRESSED WOMEN [B-4.2.6]
+ 
+Applies to: HIV, post-organ transplant, post-allogeneic stem cell transplant, SLE, ulcerative colitis, rheumatic diseases on immunosuppressive treatment.
+ 
+- Surveillance begins within 1 year of sexual debut and continues lifelong [B-4.2.6].
+ 
+**Age <30 [B-4.2.6]:**
+- Cytology annually for 3 years, then every 3 years [B-4.2.6].
+- Co-testing in HIV-positive women <30 is NOT recommended [B-4.2.6].
+- Initial ASCUS → repeat in 12 months; repeat ≥ASCUS → colposcopy [B-4.2.6].
+- Initial ≥LSIL → colposcopy [B-4.2.6].
+ 
+**Age ≥30 [B-4.2.6]:**
+- Co-test (HPV + cytology) every 3 years lifelong [B-4.2.6].
+- HPV negative + NILM → 3-year interval [B-4.2.6].
+- HPV negative + ≥LSIL → colposcopy [B-4.2.6].
+- HPV positive + ≥NILM → colposcopy [B-4.2.6].
+- ASCUS → repeat cytology in 12 months; ≥LSIL → colposcopy [B-4.2.6].
+ 
+---
+ 
+## 5. COLPOSCOPY [B-2.3]
+ 
+### Indications [B-2.3.2]:
+- Cytology showing: ASC-H, HSIL, AGC-NOS, AGC-FN, AIS, recurrent ASCUS, recurrent LSIL [B-2.3.2].
+- HPV positive + cytology ≥LSIL [B-2.3.2].
+- HPV positive + ASCUS persisting 12 months [B-2.3.2].
+- Visible lesions on cervix, vulva or vaginal mucosa [B-2.3.2].
+- Unexplained genital bleeding, contact bleeding [B-2.3.2].
+ 
+### Adequacy [B-2.3.5]:
+- **Adequate [B-2.3.5]:** SCJ fully visible + TZ fully visible + all abnormalities fully visible.
+- **Inadequate [B-2.3.5]:** any of the above criteria not met.
+ 
+### Swede colposcopy index [B-2.3.7]:
+| Feature | 0 points | 1 point | 2 points |
+|---------|----------|---------|----------|
+| Acetowhitening | Absent / faint / transparent | Milky, cloudy | Opaque, dense white |
+| Lesion border | Absent / diffuse | Sharp / irregular / satellites | Sharp, raised, peeling |
+| Vascular pattern | Fine / regular | Absent | Coarse / atypical |
+| Lesion size | <5 mm | 5–15 mm or 2 quadrants | >15 mm or 3–4 quadrants or endocervically not assessable |
+| Iodine staining | Brown (normal) | Partially / faintly yellow | Distinctly yellow |
+ 
+- 0–4 points: low-grade change (LSIL) [B-2.3.7]
+- 5–7 points: high-grade change (HSIL), no suspicion of invasion [B-2.3.7]
+- 8–10 points: high-grade change (90% HSIL), suspicion of invasion [B-2.3.7]
+ 
+---
+ 
+## 6. CERVICAL INTRAEPITHELIAL NEOPLASIA (CIN) MANAGEMENT [B-5.1]
+ 
+### 6.1 CIN1 [B-5.1.1]
+ 
+Up to 80% of CIN1 regresses spontaneously within 2 years. Treatment generally not required [B-5.1.1].
+ 
+**HPV positive/unknown + cytology ASCUS/LSIL + histology ≤CIN1 [B-5.1.1.1]:**
+- Repeat HPV in 12 months (age <30: cytology only) [B-5.1.1.1].
+  - HPV negative → repeat in 3 years; then routine surveillance [B-5.1.1.1].
+  - HPV positive + ≥LSIL → colposcopy [B-5.1.1.1].
+  - HPV positive + ASCUS → repeat in 12 months [B-5.1.1.1].
+- If CIN1 persists >24 months: watchful waiting may continue OR conisation [B-5.1.1.1].
+ 
+**HPV positive/unknown + cytology ASC-H/HSIL + histology ≤CIN1 [B-5.1.1.2]:**
+- Choose one of three options [B-5.1.1.2]:
+  1. Review of cytology, histology and colposcopy findings (B) [B-5.1.1.2].
+  2. Diagnostic conisation [B-5.1.1.2].
+  3. Watchful waiting for 2 years: repeat HPV (age <30: cytology) at 12 and 24 months [B-5.1.1.2].
+     - Both negative → repeat in 3 years [B-5.1.1.2].
+     - HPV positive OR ≥LSIL → repeat colposcopy [B-5.1.1.2].
+- If HPV positive + HSIL/ASC-H persists at 2 years → conisation [B-5.1.1.2].
+- ASC-H: watchful waiting preferred for up to 2 years [B-5.1.1.2].
+- HSIL: conisation may be performed OR watchful waiting for up to 2 years [B-5.1.1.2].
+ 
+### 6.2 CIN2, CIN2/3, CIN3 [B-5.1.2]
+ 
+- **CIN3 [B-5.1.2]:** conisation (except in pregnancy).
+- **CIN2 (non-pregnant) [B-5.1.2]:** conisation recommended, watchful waiting permitted (especially in women under 30 or planning pregnancy).
+  - In women under 30, CIN2 regresses within 2 years in up to 60% of cases [B-5.1.2].
+- **Watchful waiting for CIN2 [B-5.1.2]** (only with adequate colposcopy, up to 2 years):
+  - HPV (age <30: cytology) + colposcopy at 6-month intervals [B-5.1.2].
+  - If at 6 and 12 months HPV positive / cytology ASCUS/LSIL but histology <CIN2 → repeat in 12 months [B-5.1.2].
+  - If at 6 and 12 months both negative → HPV-based testing annually for 3 years; then HPV every 3 years for at least 25 years [B-5.1.2].
+  - CIN3 develops OR CIN2 persists at 2 years → conisation [B-5.1.2].
+  - ASC-H/HSIL/AGC on cytology but biopsy ≤CIN2 → continue surveillance at 6-month intervals [B-5.1.2].
+ 
+### 6.3 Pregnancy and CIN [B-5.1.3]
+ 
+- Colposcopy + ectocervical biopsy permitted during pregnancy [B-5.1.3].
+- **Endocervical curettage (ECC) and endometrial biopsy are PROHIBITED during pregnancy [B-5.1.3].**
+- Minor abnormalities (ASCUS/LSIL): colposcopy may be deferred to postpartum period [B-5.1.3].
+- CIN1 in pregnancy: no intervention required [B-5.1.3].
+- HSIL (CIN2/3) in pregnancy: cytology + colposcopy every 12–24 weeks until end of second trimester (week 30) [B-5.1.3].
+  - Repeat biopsy only if suspicion of invasion OR colposcopic findings worsen [B-5.1.3].
+- Repeat testing for CIN2/3 may be deferred to postpartum period (not earlier than 6 weeks after delivery) [B-5.1.3].
+- Diagnostic conisation during pregnancy: only if invasive cancer is suspected [B-5.1.3].
+ 
+### 6.4 Women aged 21–24 [B-5.1.4]
+ 
+| Situation | Management | Reference |
+|-----------|------------|-----------|
+| Cytology LSIL, histology ≤CIN1 | Cytology in 12 months (HPV NOT PERMITTED). If ASCUS/LSIL → repeat in 12 months. If ASC-H/HSIL → colposcopy. If NILM → routine surveillance. | [B-5.1.4.1] |
+| Cytology ASC-H/HSIL, histology ≤CIN1 | Watchful waiting 24 months (cytology at 12-month intervals). If 2 consecutive negatives + colposcopy negative → routine surveillance. If HSIL persists at 24 months without CIN2+ → conisation. Inadequate colposcopy → conisation permitted (B). | [B-5.1.4.2] |
+| Histology CIN2 | Watchful waiting recommended. Cytology + colposcopy every 6 months for up to 24 months. CIN2 persists at 24 months → conisation. | [B-5.1.4.3] |
+| Histology CIN3 | Conisation may be performed OR watchful waiting (adequate colposcopy, up to 24 months). Inadequate colposcopy + CIN3 → conisation (B). | [B-5.1.4.3] |
+ 
+---
+ 
+## 7. TREATMENT METHODS FOR CIN [B-5.2–B-5.4]
+ 
+- **Preferred method [B-5.2]:** excision (histological assessment possible; efficacy ~94–98%).
+- **Ablative methods [B-5.2] permitted only IF:**
+  - adequate colposcopy (entire TZ visible),
+  - lesion fully visualised,
+  - histology excludes glandular involvement and invasion,
+  - cytological and histological diagnoses concordant,
+  - superficial lesion, diameter <2 cm.
+- **CIN1 [B-5.3]:** ablation OR conisation. Hysterectomy for CIN1 is PROHIBITED [B-5.3].
+- **CIN2/CIN3 [B-5.4]:** conisation. Hysterectomy as primary treatment is CONTRAINDICATED (B) [B-5.4].
+- **Conisation depth [B-5.2]:** recommended 7–10 mm. Depth >10 mm increases risk of preterm birth.
+ 
+---
+ 
+## 8. POST-TREATMENT SURVEILLANCE AFTER CIN [B-5.5]
+ 
+- **Co-test (HPV + cytology) at 6 and 24 months post-treatment [B-5.5].**
+  - Both negative → co-test in 3 years [B-5.5].
+  - 3-year co-test negative → HPV-based surveillance for at least 25 years [B-5.5].
+- HPV positive OR cytology ≥LSIL → colposcopy [B-5.5].
+- ASCUS → repeat co-test in 12 months; ASCUS persists → colposcopy [B-5.5].
+- Dysplastic epithelium at surgical margin → repeat conisation may be performed (D) [B-5.5].
+- CIN2+ recurrence → conisation OR hysterectomy (B) [B-5.5].
+ 
+---
+ 
+## 9. LEVELS OF EVIDENCE [A-1.2]
+ 
+- **A** – randomised controlled trials / meta-analysis
+- **B** – controlled non-randomised trial / cohort or case-control study
+- **C** – observational studies, case reports
+- **D** – expert opinion, clinical experience
+ 
+Strength of recommendation in wording: **"is recommended"** = strong recommendation for; **"is permitted"** = weak recommendation for; **"is not recommended / is not permitted"** = recommendation against [A-1.2].

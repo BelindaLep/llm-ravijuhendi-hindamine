@@ -1,0 +1,264 @@
+# EMAKAKAELAVÄHI SÕELUURINGU VASTAVUSE HINDAMISE JUHEND
+## ENS ravijuhend v4 – kokkuvõte hindamiseks
+ 
+Viitesüsteem: [B-3.1.2] = juhendi osa B, peatükk 3.1.2. Kasuta neid viiteid oma hinnangu põhjendamisel.
+ 
+---
+ 
+## 1. UURINGU VANUSEPIIRID JA INTERVALLID
+ 
+### 1.1 Millal alustada [B-3.1.2]
+- Organiseeritud sõeluuring algab **25. eluaastast**.
+- Alla 25-aastaseid EI skriinita (kõrge spontaanse regressiooni tõenäosus, madal vähirisk).
+- 21–24-aastaseid võib uurida ainult kliinilise näidustuse korral – rakendatakse jälgivat taktikat.
+ 
+### 1.2 Millal lõpetada [B-3.1.3]
+- Üle 65-aastastel võib uuringu lõpetada KUI MÕLEMAD tingimused on täidetud:
+  - viimase 10 aasta jooksul on olnud 3 negatiivset günekotsütoloogilist uuringut VÕI 2 negatiivset HPV-uuringut (neist viimane viimase 5 aasta sees), JA
+  - anamneesis ei ole viimase 25 aasta jooksul esinenud CIN2 ega raskemat muutust.
+- ERAND [B-3.1.3]: kui anamneesis on CIN2, CIN3 või AIS, tuleb jätkata jälgimist **vähemalt 25 aastat**, isegi üle 65-aastasena.
+- Naistel, kes pole kunagi skriinitud [B-3.1.3]: kinnitada negatiivne tulemus 2 negatiivse HPV-uuringuga (intervall 5 a) VÕI 3 negatiivse günekotsütoloogilise uuringuga (intervall 3 a).
+ 
+### 1.3 Uuringute intervallid [B-3.2]
+- **25–29-aastased [B-3.2.1]:** ainult günekotsütoloogiline uuring iga **3 aasta** järel. HPV-uuringut EI KASUTATA.
+- **30–65-aastased [B-3.2.2]:** HPV NAT uuring iga **5 aasta** järel (organiseeritud sõeluuring alates 2021).
+- **Oportunistlik skriining 30–65 a [B-3.2.2]:** kaksikuuring (HPV + günekotsütoloogia), minimaalselt 5-aastase intervalliga.
+- Iga-aastane skriining EI OLE lubatud ühegi meetodiga [B-3.2.1].
+ 
+### 1.4 Pärast hüsterektoomiat [B-3.3]
+- Emakakaela eemaldati + anamneesis puudub CIN2+: edasine jälgimine EI OLE vajalik [B-3.3].
+- Supratservikaalne hüsterektoomia (emakakael jäi alles): tavapärane jälgimine jätkub [B-3.3].
+- Hüsterektoomia CIN-i tõttu: jälgimistaktika sama mis pärast konisatsiooni – kaksikuuring 6 ja 24 kuud pärast ravi [B-3.3].
+ 
+---
+ 
+## 2. ORGANISEERITUD SÕELUURINGU TULEMUSTE JÄLGIMINE (≥30-aastased) [B-4.1]
+ 
+Alates 2021 on Eestis organiseeritud sõeluuringu esmastestiks ≥30-aastastel naistel HPV NAT uuring.
+HPV positiivsuse korral tehakse koheselt samast proovist LBC uuring.
+Edasiseks jälgimiseks suunab naistearst.
+ 
+### Esmase testi tulemuse põhjal [B-4.1]:
+- **HPV negatiivne:** rutiinne sõeluuring 5 aasta pärast.
+- **HPV positiivne + LBC ≥LSIL:** kohene kolposkoopia.
+- **HPV positiivne + LBC NILM või ASCUS:** korrata HPV-uuringut 12 kuu pärast naistearsti vastuvõtul.
+ 
+### Esimene kordus (12 kuud) [B-4.1]:
+- HPV negatiivne → rutiinne sõeluuring.
+- HPV positiivne + LBC ≥ASCUS → kolposkoopia.
+- HPV positiivne + LBC NILM → korrata HPV-uuringut 12 kuu pärast (teine kordusring).
+ 
+### Teine kordus (24 kuud) [B-4.1]:
+- HPV negatiivne → rutiinne sõeluuring.
+- HPV positiivne + LBC ≥LSIL → kolposkoopia.
+- HPV positiivne + LBC ASCUS → korrata HPV-uuringut 12 kuu pärast.
+ 
+**Kolposkoopia on kohustuslik kui [B-4.1]:**
+- HPV positiivne + LBC ≥LSIL esmaselt, VÕI
+- HPV positiivne + ASCUS on püsinud 12 kuud.
+ 
+Oportunistlik HPV-uuring organiseeritud sõeluuringu intervallide vahepeal EI OLE soovituslik [B-4.1].
+ 
+---
+ 
+## 3. GÜNEKOTSÜTOLOOGILISE UURINGU TULEMUSTE JÄLGIMINE [B-4.2]
+ 
+### 3.1 ≥30-aastased naised [B-4.2.1]
+ 
+**ASCUS [B-4.2.1.1]:**
+- Soovituslik: HPV-uuring kohe VÕI günekotsütoloogia kordamine 12 kuu pärast.
+  - HPV negatiivne → rutiinne sõeluuring [B-4.2.1.1].
+  - HPV positiivne → korrata HPV-uuring 12 kuu pärast, edasi vastavalt HPV pos skeemile [B-4.2.1.1].
+  - Günekotsütoloogia kordamisel: kolposkoopia kui tulemus halveneb (≥LSIL) VÕI ASCUS püsib 2 aastat [B-4.2.1.1].
+ 
+**LSIL [B-4.2.1.2]:**
+- Soovituslik HPV-uuring.
+  - LSIL + HPV positiivne (või HPV staatus teadmata) → kolposkoopia [B-4.2.1.2].
+  - LSIL + HPV negatiivne → rutiinne sõeluuring [B-4.2.1.2].
+ 
+**ASC-H [B-4.2.1.3]:**
+- Sõltumata HPV staatusest → kolposkoopia (B) [B-4.2.1.3].
+- HPV testi teostamine enne kolposkoopilist uuringut EI OLE soovituslik [B-4.2.1.3].
+ 
+**HSIL [B-4.2.1.4]:**
+- Kolposkoopia (B) [B-4.2.1.4].
+- Jälgiv taktika HPV-uuringu või günekotsütoloogilise uuringu kordamisega EI OLE lubatud [B-4.2.1.4].
+ 
+### 3.2 25–29-aastased naised [B-4.2.2]
+ 
+**ASCUS [B-4.2.2.1]:**
+- Eelistatud: günekotsütoloogilise uuringu kordamine 12 kuu pärast.
+- Kohene kolposkoopia ja HPV-uuring EI OLE soovituslikud [B-4.2.2.1].
+  - 12 kuu tulemus ASCUS/LSIL → jätkata günekotsütoloogiaga 12 kuu tagant [B-4.2.2.1].
+  - 12 kuu tulemus ≥ASC-H → kolposkoopia [B-4.2.2.1].
+  - LSIL püsib üle 24 kuu → kolposkoopia [B-4.2.2.1].
+  - 12 kuu tulemus NILM → tavapärane jälgimine (günekotsütoloogia 3 a pärast) [B-4.2.2.1].
+ 
+**LSIL [B-4.2.2.2]:**
+- Soovituslik jälgida günekotsütoloogilise uuringu alusel. HPV-uuring EI OLE soovituslik [B-4.2.2.2].
+- Kolposkoopia kui: tulemus halveneb ≥ASC-H VÕI LSIL püsib üle 24 kuu [B-4.2.2.2].
+- 12 kuu tulemus NILM → tavapärane jälgimine [B-4.2.2.2].
+ 
+**ASC-H või HSIL [B-4.2.2.3]:**
+- Kolposkoopia (B) [B-4.2.2.3]. Kohene ekstsisioon linguga EI OLE lubatud (B) [B-4.2.2.3].
+ 
+### 3.3 AGC (atüüpilised glandulaarsed rakud) – kõik vanusegrupid [B-4.2.3]
+ 
+**AGC-NOS [B-4.2.3.1]:**
+- HPV-uuring + kolposkoopia + emakakaelakanali materjali võtmine [B-4.2.3.1].
+ 
+**AGC-FN [B-4.2.3.1]:**
+- Eelnev + lisaks emakaõõne histoloogiline uuring [B-4.2.3.1].
+ 
+**≥35-aastased [B-4.2.3.1]:** alati emakaõõne histoloogiline analüüs (koos kolposkoopia ja emakakaelakanali analüüsiga).
+**<35-aastased [B-4.2.3.1]:** emakaõõne analüüs ainult riskitegurite korral (ebaselge veritsus, krooniline anovulatsioon).
+ 
+**AIS [B-4.2.3.2]:**
+- Konsulteerida onkogünekoloogiga [B-4.2.3.2].
+- Sünnitada planeeriv naine: emakakaela konisatsioon [B-4.2.3.2].
+- Enam mitte sünnitada planeeriv naine: hüsterektoomia [B-4.2.3.2].
+ 
+---
+ 
+## 4. IMMUNOSUPRESSIIVSETE SEISUNDITEGA NAISED [B-4.2.6]
+ 
+Kehtib: HIV, organtransplantatsiooni järgne, tüvirakkude siirdamise järgne, SLE, haavandiline koliit, reumaatilised haigused immunosupressiivse raviga.
+ 
+- Jälgimine algab aasta jooksul pärast suguelu algust ja jätkub kogu elu [B-4.2.6].
+ 
+**<30-aastased [B-4.2.6]:**
+- Günekotsütoloogiline uuring 1x aastas 3 aasta jooksul, edasi iga 3 aasta järel [B-4.2.6].
+- HIV positiivsetel <30 a kaksikuuring EI OLE soovituslik [B-4.2.6].
+- Esmane ASCUS → kordus 12 kuu pärast; kordus ≥ASCUS → kolposkoopia [B-4.2.6].
+- Esmane ≥LSIL → kolposkoopia [B-4.2.6].
+ 
+**≥30-aastased [B-4.2.6]:**
+- Kaksikuuring (HPV + günekotsütoloogia) iga 3 aasta järel kogu eluea jooksul [B-4.2.6].
+- HPV negatiivne + NILM → 3 a intervall [B-4.2.6].
+- HPV negatiivne + ≥LSIL → kolposkoopia [B-4.2.6].
+- HPV positiivne + ≥NILM → kolposkoopia [B-4.2.6].
+- ASCUS → kordus günekotsütoloogia 12 kuu pärast; ≥LSIL → kolposkoopia [B-4.2.6].
+ 
+---
+ 
+## 5. KOLPOSKOOPIA [B-2.3]
+ 
+### Näidustused [B-2.3.2]:
+- Günekotsütoloogias: ASC-H, HSIL, AGC-NOS, AGC-FN, AIS, korduvalt ASCUS, korduvalt LSIL [B-2.3.2].
+- HPV positiivne + günekotsütoloogias ≥LSIL [B-2.3.2].
+- HPV positiivne + ASCUS korduvalt (püsib 12 kuud) [B-2.3.2].
+- Silmaga nähtavad lesioonid emakakaelal, vulval, tupe limaskestal [B-2.3.2].
+- Ebaselged verejooksud genitaalidest, kontaktverejooksud [B-2.3.2].
+ 
+### Adekvaatsus [B-2.3.5]:
+- **Adekvaatne [B-2.3.5]:** SCJ täies ulatuses nähtav + TZ täies ulatuses nähtav + kõik abnormaalsused nähtavad.
+- **Mitteadekvaatne [B-2.3.5]:** mõni eelnev kriteerium ei ole täidetud.
+ 
+### Swede kolposkoopia indeks [B-2.3.7]:
+| Tunnus | 0 punkti | 1 punkt | 2 punkti |
+|--------|----------|---------|----------|
+| Värvumine äädikhappega | Puudub / nõrk / läbipaistev | Piimjas, pilvine | Matt, tugevalt värvuv |
+| Kolde piirjoon | Puudub / hajus | Terav / sakiline / satelliidid | Terav, pinnast kõrgem, koorduv |
+| Veresoontejoonis | Peen / regulaarne | Puudub | Jäme / atüüpiline |
+| Kolde suurus | <5 mm | 5–15 mm või 2 kvadranti | >15 mm või 3–4 kvadranti või endotservikaal. mittejälgitav |
+| Värvumine joodiga | Pruun (normaalne) | Tähniliselt / ähmaselt kollane | Selgelt kollane |
+ 
+- 0–4 punkti: kerge astme muutus (LSIL) [B-2.3.7]
+- 5–7 punkti: raske astme muutus (HSIL), invasiooni kahtlust ei ole [B-2.3.7]
+- 8–10 punkti: raske astme muutus (90% HSIL), invasiooni kahtlus [B-2.3.7]
+ 
+---
+ 
+## 6. TSERVIKAALSETE DÜSPLAASIATE (CIN) JÄLGIMINE JA RAVI [B-5.1]
+ 
+### 6.1 CIN1 [B-5.1.1]
+ 
+Kuni 80% CIN1 regresseerub iseenesest 2 aastaga. Üldjuhul ravi ei vajata [B-5.1.1].
+ 
+**HPV positiivne/teadmata + günekotsütoloogias ASCUS/LSIL + histoloogias ≤CIN1 [B-5.1.1.1]:**
+- Korrata HPV-uuring 12 kuu pärast (alla 30 a: ainult günekotsütoloogiline uuring) [B-5.1.1.1].
+  - HPV negatiivne → korrata 3 a pärast; seejärel tavapärane jälgimine [B-5.1.1.1].
+  - HPV positiivne + ≥LSIL → kolposkoopia [B-5.1.1.1].
+  - HPV positiivne + ASCUS → korrata 12 kuu pärast [B-5.1.1.1].
+- Kui CIN1 püsib üle 24 kuu: võib jätkata jälgimisega VÕI teostada konisatsioon [B-5.1.1.1].
+ 
+**HPV positiivne/teadmata + günekotsütoloogias ASC-H/HSIL + histoloogias ≤CIN1 [B-5.1.1.2]:**
+- Valida üks kolmest [B-5.1.1.2]:
+  1. Tsütoloogia, histoloogia ja kolposkoopia tulemuste ülevaatamine (B) [B-5.1.1.2].
+  2. Diagnostiline konisatsioon [B-5.1.1.2].
+  3. Jälgiv taktika 2 aasta jooksul, korrates HPV-uuringut 12 ja 24 kuu pärast [B-5.1.1.2].
+     - Mõlemal korral negatiivne → korrata 3 a pärast [B-5.1.1.2].
+     - HPV positiivne VÕI ≥LSIL → korduv kolposkoopia [B-5.1.1.2].
+- Kui 2 a jooksul HPV positiivne + HSIL/ASC-H püsib → konisatsioon [B-5.1.1.2].
+- ASC-H: eelistada jälgimistaktikat kuni 2 aastat [B-5.1.1.2].
+- HSIL: võib koniseerida VÕI jälgida kuni 2 aastat [B-5.1.1.2].
+ 
+### 6.2 CIN2, CIN2/3, CIN3 [B-5.1.2]
+ 
+- **CIN3 [B-5.1.2]:** konisatsioon (v.a. rasedad).
+- **CIN2 mitterasedal [B-5.1.2]:** soovitav konisatsioon, kuid jälgiv taktika lubatud (eriti alla 30 a ja rasedust planeerivatel).
+  - Alla 30-aastastel regresseerub CIN2 2 aastaga kuni 60%-l [B-5.1.2].
+- **Jälgiv taktika CIN2 korral [B-5.1.2]** (ainult adekvaatse kolposkoopia korral, kuni 2 a):
+  - HPV (alla 30 a günekotsütoloogia) + kolposkoopia 6-kuulise intervalliga [B-5.1.2].
+  - Kui 6. ja 12. kuul HPV positiivne / günekotsütoloogias ASCUS/LSIL, kuid histoloogiliselt <CIN2 → korrata 12 kuu pärast [B-5.1.2].
+  - Kui 6. ja 12. kuul testid negatiivsed → HPV-põhine testimine 1x aastas 3 aasta jooksul; seejärel HPV 3 a intervalliga vähemalt 25 aastat [B-5.1.2].
+  - Tekib CIN3 VÕI CIN2 püsib 2 aasta möödudes → konisatsioon [B-5.1.2].
+  - Tekib ASC-H/HSIL/AGC, kuid biopsias ≤CIN2 → jätkata jälgimist 6-kuulise intervalliga [B-5.1.2].
+ 
+### 6.3 Rasedad ja CIN [B-5.1.3]
+ 
+- Kolposkoopia + portiobiopsis lubatud raseduse ajal [B-5.1.3].
+- **ECC (emakakaelakanali abrasioon) ja endomeetriumi biopsis KEELATUD raseduse ajal [B-5.1.3].**
+- Kerge muutuse kahtlus (ASCUS/LSIL): kolposkoopia võib lükata sünnitusjärgsesse perioodi [B-5.1.3].
+- CIN1 raseduse ajal: sekkumine EI OLE vajalik [B-5.1.3].
+- HSIL (CIN2/3) raseduse ajal: günekotsütoloogiline uuring + kolposkoopia 12–24-nädalase intervalliga kuni II trimestri lõpuni (30. rasedusnädalani) [B-5.1.3].
+  - Korduv biopsia ainult siis, kui kahtlus invasioonile VÕI kolposkoopiline leid süveneb [B-5.1.3].
+- Kordusuuringud CIN2/3 korral võib lükata sünnitusjärgsesse perioodi (mitte varem kui 6 nädalat pärast sünnitust) [B-5.1.3].
+- Diagnostiline konisatsioon raseduse ajal: ainult invasiivse vähi kahtluse korral [B-5.1.3].
+ 
+### 6.4 Alla 25-aastased naised (21–24 a) [B-5.1.4]
+ 
+| Olukord | Taktika | Viide |
+|---------|---------|-------|
+| Günekotsütoloogias LSIL, histoloogiliselt ≤CIN1 | Günekotsütoloogia 12 kuu pärast (HPV EI LUBATA). Kui ASCUS/LSIL → kordus 12 kuu. Kui ASC-H/HSIL → kolposkoopia. Kui NILM → tavapärane jälgimine. | [B-5.1.4.1] |
+| Günekotsütoloogias ASC-H/HSIL, histoloogiliselt ≤CIN1 | Jälgiv taktika 24 kuud (günekotsütoloogia 12-kuulise intervalliga). Kui 2 järjestikust neg + kolposkoopia neg → tavapärane jälgimine. Kui HSIL püsib 24 kuu möödumisel ilma CIN2+ leiuta → konisatsioon. Mitteadekvaatne kolposkoopia → konisatsioon lubatud (B). | [B-5.1.4.2] |
+| Histoloogiliselt CIN2 | Jälgiv taktika soovitav. Günekotsütoloogia + kolposkoopia 6-kuulise intervalliga kuni 24 kuud. CIN2 püsib 24 kuud → konisatsioon. | [B-5.1.4.3] |
+| Histoloogiliselt CIN3 | Võib koniseerida VÕI jälgida (adekvaatse kolposkoopia korral kuni 24 kuud). Mitteadekvaatne kolposkoopia + CIN3 → konisatsioon (B). | [B-5.1.4.3] |
+ 
+---
+ 
+## 7. CIN RAVIMEETODID [B-5.2–B-5.4]
+ 
+- **Eelistatud meetod [B-5.2]:** ekstsisioon (histoloogiline kontroll võimalik; efektiivsus ~94–98%).
+- **Ablatiivsed meetodid [B-5.2] lubatud ainult KUI:**
+  - adekvaatne kolposkoopia (kogu TZ nähtav),
+  - lesioon täielikult visualiseeritav,
+  - silinderepiteeli haaratust ja invasiooni välistav histoloogiline diagnoos,
+  - tsütoloogiline ja histoloogiline diagnoos ühtivad,
+  - pindmine lesioon, läbimõõt <2 cm.
+- **CIN1 [B-5.3]:** ablatsioon VÕI konisatsioon. Hüsterektoomia CIN1 raviks KEELATUD [B-5.3].
+- **CIN2/CIN3 [B-5.4]:** konisatsioon. Hüsterektoomia esmavaliku ravimeetodina VASTUNÄIDUSTATUD (B) [B-5.4].
+- **Konisaadi sügavus [B-5.2]:** soovituslik 7–10 mm. Üle 10 mm tõstab enneaegse sünnituse riski.
+ 
+---
+ 
+## 8. CIN RAVIJÄRGNE JÄLGIMINE [B-5.5]
+ 
+- **Kaksikuuring (HPV + günekotsütoloogia) 6 ja 24 kuud pärast ravi [B-5.5].**
+  - Mõlemad negatiivsed → kaksikuuring 3 a pärast [B-5.5].
+  - 3 a kaksikuuring negatiivne → HPV-põhine jälgimine vähemalt 25 aastat [B-5.5].
+- HPV positiivne VÕI günekotsütoloogias ≥LSIL → kolposkoopia [B-5.5].
+- ASCUS → korduv kaksikuuring 12 kuu pärast; ASCUS püsib → kolposkoopia [B-5.5].
+- Düsplastiline epiteel lõikejoonel → võib korrata konisatsiooni (D) [B-5.5].
+- CIN2+ retsidiiv → konisatsioon VÕI hüsterektoomia (B) [B-5.5].
+ 
+---
+ 
+## 9. TÕENDUSPÕHISUSE TASEMED [A-1.2]
+ 
+- **A** – randomiseeritud kontrollitud uuringud / meta-analüüs
+- **B** – kontrollitud randomiseerimata uuring / kohort- või juht-kontrolluuring
+- **C** – jälgivad uuringud, haigusjuhtumite kirjeldused
+- **D** – ekspertarvamus, kliiniline kogemus
+ 
+Soovituse tugevus sõnastuses: **„on soovituslik"** = tugev poolt-soovitus; **„on lubatud"** = nõrk poolt-soovitus; **„ei ole soovituslik / ei ole lubatud"** = vastu-soovitus [A-1.2].

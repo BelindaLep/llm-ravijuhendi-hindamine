@@ -1,0 +1,30 @@
+person_id,gender,birth_datetime,cohort_start_date,age_at_cohort_start,event_date,event_type,concept_id,event_name,value_as_concept_id,value_concept_name,value_as_number,value_source_value
+1,FEMALE,1980-01-01,2015-02-13,35,2015-01-29,visit,9202,Outpatient Visit,,,,
+1,FEMALE,1980-01-01,2015-02-13,35,2015-01-29,measurement,42870568,Risk of ovarian malignancy algorithm score in Serum or Plasma --premenopausal,,,4.8717,4.8717
+1,FEMALE,1980-01-01,2015-02-13,35,2015-01-29,measurement,40758310,Human epididymis protein 4 [Moles/volume] in Serum or Plasma,,,42.0,42
+1,FEMALE,1980-01-01,2015-02-13,35,2015-02-13,visit,9202,Outpatient Visit,,,,
+1,FEMALE,1980-01-01,2015-02-13,35,2015-02-13,measurement,4180186,Cytology of cervix,4119302,ASC-US,,ASC-US
+1,FEMALE,1980-01-01,2015-02-13,35,2015-02-13,measurement,42870668,Human papillomavirus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by NAA with probe detection,9191,Positive,,Positive
+1,FEMALE,1980-01-01,2015-02-13,35,2015-03-15,visit,9202,Outpatient Visit,,,,
+1,FEMALE,1980-01-01,2015-02-13,35,2015-03-15,procedure,4032404,Colposcopy of cervix,,,,
+1,FEMALE,1980-01-01,2015-02-13,35,2015-03-15,procedure,4187795,Biopsy of cervix,,,,
+1,FEMALE,1980-01-01,2015-02-13,35,2015-03-22,measurement,4188064,Histopathology cervix,4179193,Cervical intraepithelial neoplasia grade 1,,CIN1
+1,FEMALE,1980-01-01,2015-02-13,35,2016-02-20,visit,9202,Outpatient Visit,,,,
+1,FEMALE,1980-01-01,2015-02-13,35,2016-02-20,measurement,42870668,Human papillomavirus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by NAA with probe detection,9189,Negative,,Negative
+1,FEMALE,1980-01-01,2015-02-13,35,2016-02-20,measurement,4180186,Cytology of cervix,4119296,NILM,,NILM
+2,FEMALE,1975-06-15,2016-04-10,40,2016-04-10,visit,9202,Outpatient Visit,,,,
+2,FEMALE,1975-06-15,2016-04-10,40,2016-04-10,measurement,4180186,Cytology of cervix,4119306,HSIL,,HSIL
+2,FEMALE,1975-06-15,2016-04-10,40,2016-04-10,measurement,42870668,Human papillomavirus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by NAA with probe detection,9191,Positive,,Positive
+2,FEMALE,1975-06-15,2016-04-10,40,2016-05-20,visit,9202,Outpatient Visit,,,,
+2,FEMALE,1975-06-15,2016-04-10,40,2016-05-20,procedure,4032404,Colposcopy of cervix,,,,
+2,FEMALE,1975-06-15,2016-04-10,40,2016-05-20,procedure,4187795,Biopsy of cervix,,,,
+2,FEMALE,1975-06-15,2016-04-10,40,2016-05-28,measurement,4188064,Histopathology cervix,4185170,Cervical intraepithelial neoplasia grade 2,,CIN2
+2,FEMALE,1975-06-15,2016-04-10,40,2016-11-15,visit,9202,Outpatient Visit,,,,
+2,FEMALE,1975-06-15,2016-04-10,40,2017-03-20,visit,9202,Outpatient Visit,,,,
+2,FEMALE,1975-06-15,2016-04-10,40,2017-03-20,measurement,4180186,Cytology of cervix,4119306,HSIL,,HSIL
+3,FEMALE,1970-09-22,2017-08-05,46,2017-08-05,visit,9202,Outpatient Visit,,,,
+3,FEMALE,1970-09-22,2017-08-05,46,2017-08-05,measurement,4180186,Cytology of cervix,4119302,ASC-US,,ASC-US
+3,FEMALE,1970-09-22,2017-08-05,46,2017-08-05,measurement,42870668,Human papillomavirus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by NAA with probe detection,9189,Negative,,Negative
+3,FEMALE,1970-09-22,2017-08-05,46,2018-08-15,visit,9202,Outpatient Visit,,,,
+3,FEMALE,1970-09-22,2017-08-05,46,2018-08-15,measurement,42870668,Human papillomavirus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by NAA with probe detection,9189,Negative,,Negative
+3,FEMALE,1970-09-22,2017-08-05,46,2018-08-15,measurement,4180186,Cytology of cervix,4119296,NILM,,NILM
